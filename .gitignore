@@ -13,3 +13,5 @@ vim_passfile
 autoload/unicode/UnicodeData.*
 autoload/unicode/UnicodeTable.txt
 doc/tags
+# ignore commit message
+.gitcommit
